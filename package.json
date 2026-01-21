@@ -1,0 +1,9 @@
+{
+  "name": "aki-v3-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^0.3.0",
+    "dotenv": "^16.0.0"
+  }
+}
